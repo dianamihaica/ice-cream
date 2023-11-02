@@ -2,7 +2,7 @@
     --footer-title-font:"Titan One"
 }
 
-.footer-title-one{
+.footer-title-one .footer-title-ice-cream{
 font-family: var(--footer-title-font);
 height: 42px;
 top:6341px;
@@ -10,5 +10,6 @@ left: 22px;
 font-weight: 400;
 size: 18px;
 color: #FFA5BA;
-background-color: #FFA5BA;
+width: 369px;
+transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
