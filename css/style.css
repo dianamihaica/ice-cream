@@ -1,15 +1,46 @@
 :root{
-    --footer-title-font:"Titan One"
+    --footer-title-font:"Titan One";
 }
 
 .footer-title-one .footer-title-ice-cream{
 font-family: var(--footer-title-font);
-height: 42px;
-top:6341px;
-left: 22px;
 font-weight: 400;
-size: 18px;
+font-size: 26px;
+line-height: 29.77px;
+width: 340px;
+height: 57px;
+top: 3676px;
+left: 16px;
+
 color: #FFA5BA;
-width: 369px;
 transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+.footer-title-made{
+    font-family: var(--footer-title-font);
+font-weight: 400;
+font-size: 26px;
+line-height: 29.77px;
+width: 340px;
+height: 57px;
+top: 3676px;
+left: 16px;
+color: #FFA5BA;
+}
+.letter{
+    font-family: var(--footer-title-font);
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 54.96px;
+    width: 340px;
+    height: 110px;
+    top: 3745px;
+    left: 16px;
+    color:#D41443;
+}
+.footer-icon{
+    width: 34px;
+height: 34px;
+top: 3736px;
+left: 590px;
+
 }
